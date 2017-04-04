@@ -6,7 +6,7 @@
   function photoGallery() {
     var directive = {
       restrict: 'E',
-      templateUrl: '/photo-gallery.html',
+      templateUrl: '/photo-gallery-template.html',
       link: link,
       scope: {
         images: '='
