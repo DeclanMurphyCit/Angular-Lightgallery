@@ -14,7 +14,7 @@ Example usage for this directive:
 ---
 
 ``` html
-<yr-photo-gallery images="vm.images"></yr-photo-gallery>
+<photo-gallery images="vm.images"></photo-gallery>
 ```
 
 In your controller, ensure that you populate ```vm.images``` with your image (and thumbnail) sources.
